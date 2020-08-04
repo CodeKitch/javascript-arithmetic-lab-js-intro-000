@@ -11,7 +11,7 @@ function multiply(a,b) {
 }
 
 function divide(a,b) {
-  returen a / b
+  return a / b
 }
 
 function increment(n) {
